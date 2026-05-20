@@ -1,3 +1,9 @@
-//
-// Created by anna-aleksandrova on 5/15/26.
-//
+#include <iostream>
+
+#include "utils.h"
+
+int main() {
+    hello();
+    hello3();
+    return 0;
+}
